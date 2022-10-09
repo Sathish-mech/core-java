@@ -9,11 +9,11 @@ public class Arithmatic{
         System.out.println(x/y);
         System.out.println(x%y);
         System.out.println(z);
-        System.out.println("x+y=>"+(x+y));
-        System.out.println("x-y=>"+(x-y));
-        System.out.println("x%Y=>"+(x%y));
-        System.out.println("x*y=>"+(x*y));
-        System.out.println("x/y=>"+(x/y));
-        System.out.println("z=>"+(z));
+        System.out.println("x+y="+(x+y));
+        System.out.println("x-y="+(x-y));
+        System.out.println("x%Y="+(x%y));
+        System.out.println("x*y="+(x*y));
+        System.out.println("x/y="+(x/y));
+        System.out.println("z="+(z));
     }
 }
